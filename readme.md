@@ -2,6 +2,8 @@ A collection of silly hats I made for me and my friends.
 
 ![BuzzBuzz](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/buzzbuzz.png?raw=true) **BuzzBuzz** - A cute bee
 
+![Box](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/box.png?raw=true) **Boxer** - A rectangular friend.
+
 ![Cyborg](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/cyborg.png?raw=true) **Cyborg** - Why wasn't there anything like this in the base game?
 
 ![Facts](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - A raccoon.

@@ -1,5 +1,4 @@
-![Banner Image](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - Raccoon.
-
+![Kerfluffles Hat Pack Banner Image](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/banner.png)
 
 A collection of silly hats I made for me and my friends.
 

@@ -1,3 +1,6 @@
+![Banner Image](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - Raccoon.
+
+
 A collection of silly hats I made for me and my friends.
 
 ![BuzzBuzz](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/buzzbuzz.png?raw=true) **BuzzBuzz** - Cute & Friendly bee
@@ -18,3 +21,6 @@ A collection of silly hats I made for me and my friends.
 
 
 ![UMU](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/umu.png?raw=true) UMU - Chibi Nero from Fate
+
+
+You can download the mod from the [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2877204259)

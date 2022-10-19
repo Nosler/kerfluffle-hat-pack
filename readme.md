@@ -12,7 +12,7 @@ A collection of silly hats I made for me and my friends.
 
 ![Gary](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/gary.png?raw=true) **Gary** - The heroic(?) lion from ROAR
 
-![HIM](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png) **HIM** - Max Rebo from Max Rebo's Jizz Band
+![HIM](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png | width=100) **HIM** - Max Rebo from Max Rebo's Jizz Band
 
 ![QUAK](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/quak.png?raw=true) **QUAK** - Real Duck
 

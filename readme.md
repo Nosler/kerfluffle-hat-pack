@@ -1,12 +1,12 @@
 A collection of silly hats I made for me and my friends.
 
-![BuzzBuzz](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/buzzbuzz.png?raw=true) **BuzzBuzz** - A cute bee
+![BuzzBuzz](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/buzzbuzz.png?raw=true) **BuzzBuzz** - Cute & Friendly bee
 
 ![Box](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/box.png?raw=true) **Boxer** - A rectangular friend.
 
-![Cyborg](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/cyborg.png?raw=true) **Cyborg** - Why wasn't there anything like this in the base game?
+![Cyborg](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/cyborg.png?raw=true) **Cyborg** - Just surprised there's nothing like this in vanilla tbh.
 
-![Facts](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - A raccoon.
+![Facts](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - Raccoon.
 
 ![HIM](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/him.png?raw=true) **HIM** - Max Rebo from Max Rebo's Jizz Band
 

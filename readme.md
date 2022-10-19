@@ -2,24 +2,22 @@
 
 A collection of silly hats I made for me and my friends.
 
-![BuzzBuzz](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/buzzbuzz.png?raw=true) **BuzzBuzz** - Cute & Friendly bee
+<img alt="BuzzBuzz" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/bee.png" width="70"> **BuzzBuzz** - Cute & Friendly bee
 
-![Cyborg](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/cyborg.png?raw=true) **Cyborg** - Just surprised there's nothing like this in vanilla tbh.
+<img alt="Cyborg" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/cyborg.png" width="70"> **Cyborg** - Just surprised there's nothing like this in vanilla tbh.
 
-![Even Higher](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/rem.png?raw=true) **Even Higher** - Rem Lezar! From another place, not from outer space but from some place even higher!
+<img alt="Rem Lezar" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/rem.png" width="70"> **Rem Lezar** - From another place, not from outer space but from some place even higher!
 
-![Facts](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/facts.png?raw=true) **Facts** - Raccoon.
+<img alt="Facts" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/facts.png" width="70"> **Facts** - Raccoon.
 
-![Gary](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/gary.png?raw=true) **Gary** - The heroic(?) lion from ROAR
+<img alt="Gary" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/gary.png" width="70"> **Gary** - The heroic(?) lion from ROAR
 
-![HIM](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png | width=100) **HIM** - Max Rebo from Max Rebo's Jizz Band
+<img alt="HIM" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png" width="70"> **HIM** - Max Rebo from Max Rebo's Jizz Band
 
-![QUAK](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/quak.png?raw=true) **QUAK** - Real Duck
+<img alt="Quak" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/quak.png" width="70"> **QUAK** - Real Duck
 
-![Storage](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/box.png?raw=true) **Storage** - A rectangular friend.
+<img alt="Storage" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/box.png" width="70"> **Storage** - A rectangular friend.
 
-
-![UMU](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/ExportedHats/umu.png?raw=true) UMU - Chibi Nero from Fate
-
+<img alt="umu" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/umu.png" width="70"> **UMU** - Chibi Nero from Fate
 
 You can download the mod from the [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2877204259)

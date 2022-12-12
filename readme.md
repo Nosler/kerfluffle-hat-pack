@@ -1,7 +1,5 @@
 ![Kerfluffles Hat Pack Banner Image](https://github.com/Nosler/kerfluffle-hat-pack/blob/main/banner.png)
 
-A collection of silly hats I made for me and my friends.
-
 <img alt="Boxer" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/box.png" width="70"> **Boxer** - A rectangular friend.
 
 <img alt="BuzzBuzz" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/bee.png" width="70"> **BuzzBuzz** - Cute & Friendly bee

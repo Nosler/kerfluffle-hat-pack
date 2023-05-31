@@ -4,15 +4,15 @@
 
 <img alt="BuzzBuzz" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/bee.png" width="70"> **BuzzBuzz** - Cute & Friendly bee
 
-<img alt="Cyborg" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/cyborg.png" width="70"> **Cyborg** - Just surprised there's nothing like this in vanilla tbh.
+<img alt="Cyborg" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/cyborg.png" width="70"> **Cyborg** - Just surprised there's nothing like this in vanilla tbh
 
 <img alt="Rem Lezar" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/rem.png" width="70"> **Rem Lezar** - From another place, not from outer space but from some place even higher!
 
-<img alt="Facts" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/facts.png" width="70"> **Facts** - Raccoon.
+<img alt="Facts" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/facts.png" width="70"> **Facts** - Raccoon
 
 <img alt="Gary" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/gary.png" width="70"> **Gary** - The heroic(?) lion from ROAR
 
-<img alt="HIM" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png" width="70"> **HIM** - Max Rebo from Max Rebo's Jizz Band
+<img alt="HIM" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/HIM.png" width="70"> **HIM** - Everyone's favorite tertiary Star Wars character
 
 <img alt="Quak" src="https://github.com/Nosler/kerfluffle-hat-pack/blob/main/Previews/quak.png" width="70"> **QUAK** - Real Duck
 
